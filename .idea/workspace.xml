@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5906cc13-63a3-45ba-ae9d-a611d054db22" name="Default Changelist" comment="added files">
+    <list default="true" id="5906cc13-63a3-45ba-ae9d-a611d054db22" name="Default Changelist" comment="files run when ur db is connected.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs340_sample_nodejs_app/people_certs.js" beforeDir="false" afterPath="$PROJECT_DIR$/cs340_sample_nodejs_app/people_certs.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -48,7 +52,9 @@
       <workItem from="1614782978989" duration="383000" />
       <workItem from="1614783449998" duration="560000" />
       <workItem from="1614784036352" duration="15000" />
-      <workItem from="1614784253796" duration="45000" />
+      <workItem from="1614784253796" duration="229000" />
+      <workItem from="1614784524613" duration="15000" />
+      <workItem from="1614785175268" duration="515000" />
     </task>
     <task id="LOCAL-00001">
       <created>1614783306562</created>
@@ -64,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614783496830</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="files run when ur db is connected.">
+      <created>1614784330109</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614784330109</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +98,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added files" />
-    <option name="LAST_COMMIT_MESSAGE" value="added files" />
+    <MESSAGE value="files run when ur db is connected." />
+    <option name="LAST_COMMIT_MESSAGE" value="files run when ur db is connected." />
   </component>
 </project>
