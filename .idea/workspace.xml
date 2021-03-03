@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5906cc13-63a3-45ba-ae9d-a611d054db22" name="Default Changelist" comment="files run when ur db is connected.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs340_sample_nodejs_app/people_certs.js" beforeDir="false" afterPath="$PROJECT_DIR$/cs340_sample_nodejs_app/people_certs.js" afterDir="false" />
+    <list default="true" id="5906cc13-63a3-45ba-ae9d-a611d054db22" name="Default Changelist" comment="files run when ur db is connected and">
+      <change beforePath="$PROJECT_DIR$/cs340_sample_nodejs_app/people.js" beforeDir="false" afterPath="$PROJECT_DIR$/cs340_sample_nodejs_app/people.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <workItem from="1614784036352" duration="15000" />
       <workItem from="1614784253796" duration="229000" />
       <workItem from="1614784524613" duration="15000" />
-      <workItem from="1614785175268" duration="515000" />
+      <workItem from="1614785175268" duration="818000" />
     </task>
     <task id="LOCAL-00001">
       <created>1614783306562</created>
@@ -77,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614784330109</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="files run when ur db is connected and">
+      <created>1614785697508</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614785697508</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +105,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="added files" />
     <MESSAGE value="files run when ur db is connected." />
-    <option name="LAST_COMMIT_MESSAGE" value="files run when ur db is connected." />
+    <MESSAGE value="files run when ur db is connected and" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
